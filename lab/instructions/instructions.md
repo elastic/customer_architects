@@ -58,7 +58,7 @@ The application that we are monitoring is [Spring Pet Clinic](https://github.com
 2. Set JAVA_HOME
 
 * Follow [instructions to set up Elastic APM](https://www.elastic.co/guide/en/apm/guide/current/apm-quick-start.html#add-apm-integration)
-* The APM Agents tab contains detailed instructions on how to instrument applications in various languages with Elastic APM agent. We are using a Java agent here.
+* The APM Agents tab in Kibana contains detailed instructions on how to instrument applications in various languages with Elastic APM agent. We are using the Java agent here.
 * Go to `Observability > APM > Services` to see the instrumented application when complete
 
 ## Final Question
