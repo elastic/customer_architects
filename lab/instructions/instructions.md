@@ -71,6 +71,6 @@ The application that we are monitoring is [Spring Pet Clinic](https://github.com
 
 * Beachmark with [ESRally](https://esrally.readthedocs.io/en/stable/quickstart.html) [using a remote cluster](https://esrally.readthedocs.io/en/stable/recipes.html#benchmarking-a-remote-cluster)
 * Please come prepared to explain what track(s) you used and what are the race results.
-* **Bonus Points** - Create your own [custom track](https://esrally.readthedocs.io/en/stable/adding_tracks.html) 
+* **Bonus Points**: Create your own [custom track](https://esrally.readthedocs.io/en/stable/adding_tracks.html) 
 
 
