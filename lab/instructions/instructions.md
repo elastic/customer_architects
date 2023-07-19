@@ -6,20 +6,20 @@ Please include an ML node in your trial.
 
 1. Expand Advanced settings
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](../images/image1.png "image_tooltip")
 
 2. Under Machine Learning instances, click on + Add capacity
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](../images/image2.png "image_tooltip")
 
 3. You should see the following before clicking on Create deployment.
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](../images/image3.png "image_tooltip")
 
 4. Make sure you save the user Elastic and its corresponding password. 
 5. Once the instance is up and running, please save your Cloud Id as well. 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](../images/image4.png "image_tooltip")
 
 We are ready to begin our exercises. Please be prepared to share what you did. Please note, the documentations are not perfect. 
 
