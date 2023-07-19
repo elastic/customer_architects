@@ -67,7 +67,7 @@ The application that we are monitoring is [Spring Pet Clinic](https://github.com
 
 ## Exercise 2 
 
-## Benchmark Elasticsearch using ESRally**
+## Benchmark Elasticsearch using ESRally
 
 * Beachmark with [ESRally](https://esrally.readthedocs.io/en/stable/quickstart.html) [using a remote cluster](https://esrally.readthedocs.io/en/stable/recipes.html#benchmarking-a-remote-cluster)
 * Please come prepared to explain what track(s) you used and what are the race results.
