@@ -50,7 +50,7 @@ Follow [these instructions](https://www.elastic.co/guide/en/fleet/current/instal
 * Use [Kibana](https://www.elastic.co/guide/en/kibana/current/get-started.html#view-and-analyze-the-data) to create visualizations on a few points of possible interests with the Apache access log and gather them into a [Kibana dashboard](https://www.elastic.co/guide/en/kibana/current/dashboard.html)
 * **Bonus point**: Create a [single metric anomaly detection job](https://www.elastic.co/guide/en/machine-learning/8.8/ml-ad-finding-anomalies.html) to detect excessive high or low log rate. You may need to create a [data view](https://www.elastic.co/guide/en/kibana/current/data-views.html#data-views) first. 
 
-## Collect APM traces
+### Collect APM traces
 
 The application that we are monitoring is [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic). Please see intructions in the repo on how to [run Petclinic](https://github.com/spring-projects/spring-petclinic#running-petclinic-locally). It is a Java application so you would need 
 
@@ -61,13 +61,13 @@ The application that we are monitoring is [Spring Pet Clinic](https://github.com
 * The APM Agents tab in Kibana contains detailed instructions on how to instrument applications in various languages with Elastic APM agent. We are using the Java agent here.
 * Go to `Observability > APM > Services` to see the instrumented application when complete
 
-## Final Question
+### Final Question
 
 * How are the vitals of your local host while you are ingesting data? Any alerts triggered.
 
 ## Exercise 2 
 
-## Benchmark Elasticsearch using ESRally
+### Benchmark Elasticsearch using ESRally
 
 * Beachmark with [ESRally](https://esrally.readthedocs.io/en/stable/quickstart.html) [using a remote cluster](https://esrally.readthedocs.io/en/stable/recipes.html#benchmarking-a-remote-cluster)
 * Please come prepared to explain what track(s) you used and what are the race results.
